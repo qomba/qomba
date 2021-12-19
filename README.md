@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murodali
-- 👀 I’m interested in Data Analysis | Finance 
-- 🌱 I’m currently learning SQL for business
+- 👀 I’m interested in Data Analytics | Finance 
+- 🌱 Hold an M.A in International Business and a diploma in Data Analysis
 
 
 <!---
