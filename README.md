@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Murodali
-- 👀 I’m interested in Data Analysis
-- 🌱 Hold an M.A in International Business and a diploma in Data Analysis
+- 👋 Hi there!, I’m Murodali
+- 👀 I’m interested in everything related to Data
+- 🌱 Hold an M.A in International Business and a professional training certificate in Data Analysis
 
 
 <!---
