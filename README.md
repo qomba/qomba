@@ -1,5 +1,5 @@
 - 👋 Hi there!, I’m Murodali
-- 👀 I’m interested in everything related to Data
+- 👀 I’m interested in everything related to Data & Finance
 - 🌱 Hold an M.A in International Business and a professional training certificate in Data Analysis
 
 
