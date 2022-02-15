@@ -1,11 +1,13 @@
-- 👋 Hi there!, I’m Murodali
+# Hi there, I'm Murodali
+
+
 - 👀 I’m currently learning a bit of everything 🤣
 - 🌱 Hold an M.A in International Business and a Professional Training Certificate in Data Analysis
 - 🥅 2022 Goals: Learn more about Machine Learning and AI
 - ⚡ Fun fact: I love football and play chess
 - 😻 Check out the data analysis porfolio I created: [Portfolio][portfolio]
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/murodali-rasulov/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/murodali-rasulov/#gh-dark-mode-only)
