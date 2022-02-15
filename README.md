@@ -21,7 +21,7 @@
 ## Languages and Tools:
 
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="./img/vscode.jpeg" alt="vscode" width="40" height="40"/> </a>
- <a href="https://www.tableau.com/" target="_blank"> <img src="./img/tableau.jpeg" alt="tableau" width="30" height="30"/> </a>
+ <a href="https://www.tableau.com/" target="_blank"> <img src="./img/tableau.jpeg" alt="tableau" width="60" height="35"/> </a>
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="./img/excel.jpeg" alt="excel" width="40" height="40"/> </a>
  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="./img/powerbi.jpeg" alt="powerbi" width="60" height="40"/> </a> 
  <a href="https://jupyter.org/" target="_blank"> <img src="./img/jupyter.jpeg" alt="jupyter" width="40" height="40"/> </a>
