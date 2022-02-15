@@ -17,7 +17,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/MurodaliRasulov#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/MurodaliRasulov#gh-dark-mode-only)
 
-<br>
 
 ## Languages and Tools:
 
