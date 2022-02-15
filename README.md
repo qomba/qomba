@@ -1,6 +1,8 @@
 - 👋 Hi there!, I’m Murodali
-- 👀 I’m interested in everything related to Data & Finance
+- 👀 I’m currently learning a bit of everything 🤣
 - 🌱 Hold an M.A in International Business and a Professional Training Certificate in Data Analysis
+- 🥅 2022 Goals: Learn more about Machine Learning and AI
+- ⚡ Fun fact: I love football and play chess
 
 
 <!---
