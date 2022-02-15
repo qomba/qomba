@@ -5,6 +5,14 @@
 - ⚡ Fun fact: I love football and play chess
 - 😻 Check out the data analysis porfolio I created: [Portfolio][portfolio]
 
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/MurodaliRasulovgh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/MurodaliRasulov#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/murodali-rasulov/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/murodali-rasulov/#gh-dark-mode-only)
+
 
 
 
@@ -15,6 +23,8 @@
 
 
 [portfolio]: https://rasulov94.github.io/Data-Analysis-Portfolio/
+[twitter]: https://twitter.com/MurodaliRasulov
+[linkedin]: https://www.linkedin.com/in/murodali-rasulov/
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
