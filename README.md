@@ -20,23 +20,25 @@
 
 ## Languages and Tools:
 
+<p align="left"> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="./img/excel.jpeg" alt="excel" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="./img/powerbi.jpeg" alt="powerbi" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank"> <img src="./img/jupyter.jpeg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://dbeaver.io/" target="_blank"> <img src="./img/dbeaver.jpeg" alt="dbeaver" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="./img/pandas.jpeg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
-[<img align="left" alt="Excel" width="26px" src="./img/excel.jpeg" style="padding-right:10px;" />][excel]
 
 
 
 
 
-[excel]: https://www.microsoft.com/en-us/microsoft-365/excel
-[powerbi]
-[jupyter]
-[Dbeaver]
-[Pandas]:
-[SQL]:
-[tableau]:
-[python]:
+
+
 [mysql]: https://www.mysql.com/
 [github]: https://github.com/
 [vscode]: https://code.visualstudio.com/
