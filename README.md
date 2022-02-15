@@ -3,7 +3,7 @@
 - 🌱 Hold an M.A in International Business and a Professional Training Certificate in Data Analysis
 - 🥅 2022 Goals: Learn more about Machine Learning and AI
 - ⚡ Fun fact: I love football and play chess
-- 😻 Check out the data analysis porfolio I created: ![portfolio]
+- 😻 Check out the data analysis porfolio I created: [Portfolio][portfolio]!
 
 
 
