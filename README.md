@@ -24,7 +24,7 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="./img/powerbi.jpeg" alt="powerbi" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img src="./img/jupyter.jpeg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://dbeaver.io/" target="_blank"> <img src="./img/dbeaver.jpeg" alt="dbeaver" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="./img/pandas.jpeg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="./img/pandas.jpeg" alt="pandas" width="40" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
